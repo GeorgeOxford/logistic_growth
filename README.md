@@ -13,5 +13,4 @@ The population sizes for at t = 4980 for the logistic model and exponential mode
 The code for this calculation can be found at the bottom of the plot_data_and_model.R file. 
 
 Question 3: 
-https://github.com/GeorgeOxford/logistic_growth/blob/main/Logistic%20exponential%20plot.png?raw=true![image](https://github.com/GeorgeOxford/logistic_growth/assets/150150569/8d8cf05e-0813-4fff-87d3-a708a451777f)
 
