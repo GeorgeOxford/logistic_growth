@@ -5,5 +5,5 @@ N0 <- 6.888e+00 # the starting number of bacteria
 r <- 1.002e-02 # the rate of growth
 K <- 6.00e+10 # the carrying capacity
 
-A logistic growth model was then produced and mapped onto the same plots as seem in the plot
+A logistic growth model was then produced and mapped onto the same plots as seem in the plot_data_and_model.R file. The model was produced using the same parameters and thus showed similar characteristics to the real data. However, it develop more slowly with curve taking longer to reach the maximum growth rate. This perhaps suggests inaccuracies in the linear models used to estimate the N0, K, and r. 
 
