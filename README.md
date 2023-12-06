@@ -12,7 +12,7 @@ Question 2:
 The population sizes for at t = 4980 for the logistic model and exponential model were 6e+10 and 3.23e+22 respectively. As expected the population in the exponential model is much greater since in the logistic model the population reaches the carrying capacity. 
 The code for this calculation can be found at the bottom of the plot_data_and_model.R file. 
 
-Question 3: A plot of the bacterial population with a logistic model in red and an exponential model in blue
+Question 3: A plot of the bacterial population with a logistic model in red and an exponential model in blue. Time (t), in minutes, on the x axis and number of bacteria on the y axis.
 
 
 
